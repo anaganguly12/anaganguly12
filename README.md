@@ -18,7 +18,9 @@ Currently I am learning about Machine Learning and Data Science and also working
  
 
 ## Know more about me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anaganguly12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ananya-ganguly-59aba921a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/uniqueFire12)  
+* Email: annasanaganguly@gmail.com
+* Twitter: <a href="https://twitter.com/uniqueFire12">Ananya Ganguly</a>
+* Linkedin: <a href="https://in.linkedin.com/in/ananya-ganguly-59aba921a">Ananya Ganguly</a>
 
 
 ## Other Details 
