@@ -17,11 +17,13 @@ Currently I am learning about Machine Learning and Data Science and also working
 
  
 
-## Know more about me
-* Email: annasanaganguly@gmail.com
-* Twitter: <a href="https://twitter.com/uniqueFire12">Ananya Ganguly</a>
-* Linkedin: <a href="https://in.linkedin.com/in/ananya-ganguly-59aba921a">Ananya Ganguly</a>
+## Wanna get in touch?
+Contact with me at: 
 
+* Email: annasanaganguly@gmail.com
+* Twitter: <a href="https://twitter.com/uniqueFire12">uniquefire12</a>
+* Linkedin: <a href="https://in.linkedin.com/in/ananya-ganguly-59aba921a">uniquefire12</a>
+* Instagram: <a href="https://www.instagram.com/uniquefire12/">uniquefire12</a>
 
 ## Other Details 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaganguly12)](https://github.com/anuraghazra/github-readme-stats)
